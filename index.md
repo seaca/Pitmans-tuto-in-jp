@@ -24,4 +24,6 @@
 *	接頭辞
 *	接尾辞
 
-
+## 参考リンク
+[NSS Books](http://nssbooks.com/learn-shorthand/)
+[Long Live Pitman's shorthand - Theory](https://www.long-live-pitmans-shorthand.org.uk/theory-intro.htm)
