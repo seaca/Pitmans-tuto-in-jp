@@ -4,7 +4,7 @@
 
 ## 目次
 
-*	子音
+*	[子音](https://github.com/seaca/Pitmans-tuto-in-jp/blob/main/01_consonants.md)
 *	母音(1) ― 短母音と長母音
 *	母音(2) ― 介在母音、ポジションライティング
 *	単語の書き方
