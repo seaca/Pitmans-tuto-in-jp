@@ -21,7 +21,7 @@ Pitman式速記の子音は、直線または4分の1の円弧で表されます
 
 | 名前  | 形   | 音  | 書き方  |
 |:------|:-----|:----|:--------|
-| Pee   |![Pee](https://raw.githubusercontent.com/seaca/Pitmans-tuto-in-jp/blob/main/img/singleStrokes/pee.png)| /p/ | 右下に45度 |
+| Pee   |![Pee](/img/singleStrokes/pee.png)| /p/ | 右下に45度 |
 | Bee   |![Bee](https://raw.githubusercontent.com/seaca/Pitmans-tuto-in-jp/blob/main/img/singleStrokes/bee.png)| /b/ | 右下に45度 |
 | Tee   |![Tee](https://raw.githubusercontent.com/seaca/Pitmans-tuto-in-jp/blob/main/img/singleStrokes/tee.png)| /t/ | 下に真っ直ぐ |
 | Dee   |![Dee](https://raw.githubusercontent.com/seaca/Pitmans-tuto-in-jp/blob/main/img/singleStrokes/dee.png)| /d/ | 下に真っ直ぐ |
