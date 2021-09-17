@@ -21,11 +21,11 @@ Pitman式速記の子音は、直線または4分の1の円弧で表されます
 
 | 名前  | 形   | 音  | 書き方  |
 |:------|:-----|:----|:--------|
-| Pee   |![Pee](https://github.com/seaca/Pitmans-tuto-in-jp/blob/main/img/singleStrokes/pee.png)| /p/ | 右下に45度 |
-| Bee   |![Bee](https://github.com/seaca/Pitmans-tuto-in-jp/blob/main/img/singleStrokes/bee.png)| /b/ | 右下に45度 |
-| Tee   |![Tee](https://github.com/seaca/Pitmans-tuto-in-jp/blob/main/img/singleStrokes/tee.png)| /t/ | 下に真っ直ぐ |
-| Dee   |![Dee](https://github.com/seaca/Pitmans-tuto-in-jp/blob/main/img/singleStrokes/dee.png)| /d/ | 下に真っ直ぐ |
-| Chay   |![Chay](https://github.com/seaca/Pitmans-tuto-in-jp/blob/main/img/singleStrokes/chay.png)| /tʃ/ | 左下に30度 |
-| Jay   |![Jay](https://github.com/seaca/Pitmans-tuto-in-jp/blob/main/img/singleStrokes/jay.png)| /dʒ/ | 左下に30度 |
-| Kay   |![Kay](https://github.com/seaca/Pitmans-tuto-in-jp/blob/main/img/singleStrokes/kay.png)| /k/ | 右に真っ直ぐ |
-| Gay   |![Gay](https://github.com/seaca/Pitmans-tuto-in-jp/blob/main/img/singleStrokes/gay.png)| /g/ | 右に真っ直ぐ |
+| Pee   |![Pee](https://raw.githubusercontent.com/seaca/Pitmans-tuto-in-jp/blob/main/img/singleStrokes/pee.png)| /p/ | 右下に45度 |
+| Bee   |![Bee](https://raw.githubusercontent.com/seaca/Pitmans-tuto-in-jp/blob/main/img/singleStrokes/bee.png)| /b/ | 右下に45度 |
+| Tee   |![Tee](https://raw.githubusercontent.com/seaca/Pitmans-tuto-in-jp/blob/main/img/singleStrokes/tee.png)| /t/ | 下に真っ直ぐ |
+| Dee   |![Dee](https://raw.githubusercontent.com/seaca/Pitmans-tuto-in-jp/blob/main/img/singleStrokes/dee.png)| /d/ | 下に真っ直ぐ |
+| Chay   |![Chay](https://raw.githubusercontent.com/seaca/Pitmans-tuto-in-jp/blob/main/img/singleStrokes/chay.png)| /tʃ/ | 左下に30度 |
+| Jay   |![Jay](https://raw.githubusercontent.com/seaca/Pitmans-tuto-in-jp/blob/main/img/singleStrokes/jay.png)| /dʒ/ | 左下に30度 |
+| Kay   |![Kay](https://raw.githubusercontent.com/seaca/Pitmans-tuto-in-jp/blob/main/img/singleStrokes/kay.png)| /k/ | 右に真っ直ぐ |
+| Gay   |![Gay](https://raw.githubusercontent.com/seaca/Pitmans-tuto-in-jp/blob/main/img/singleStrokes/gay.png)| /g/ | 右に真っ直ぐ |
